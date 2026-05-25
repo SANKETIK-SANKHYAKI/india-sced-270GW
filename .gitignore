@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# GAMS/GAMSpy working files
+*.gdx
+*.lst
+*.log
+*.lxi
+*.gms
+225*/
+scratch/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# Raw/private data (add your real input files here if needed)
+# data/model_demand_real.csv
